@@ -1,2 +1,4 @@
-# ict_spec_cloudprogramming_NodelLabVezba2
-This is school project for cloud programming
+# ICT - specialization studies 
+## > Cloud programming
+
+School project in Node js
