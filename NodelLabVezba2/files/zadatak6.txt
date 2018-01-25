@@ -1,0 +1,30 @@
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 5
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 6
+*********************************
+Iteracija: 0 | Broj: 5
+Iteracija: 0 | Broj: 5
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 6
+Iteracija: 0 | Broj: 5
+Iteracija: 0 | Broj: 5
+Iteracija: 0 | Broj: 5
+Iteracija: 1 | Broj: 6
+Iteracija: 1 | Broj: 6
+Iteracija: 1 | Broj: 5
+Iteracija: 1 | Broj: 6
+Iteracija: 1 | Broj: 5
+Iteracija: 1 | Broj: 6
+Iteracija: 1 | Broj: 6
+Iteracija: 2 | Broj: 5
+Iteracija: 2 | Broj: 5
+Iteracija: 2 | Broj: 5
+Iteracija: 2 | Broj: 5
+Iteracija: 2 | Broj: 6
+Iteracija: 2 | Broj: 5
+Iteracija: 2 | Broj: 6
+*********************************

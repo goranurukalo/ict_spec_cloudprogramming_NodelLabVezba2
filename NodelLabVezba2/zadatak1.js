@@ -1,0 +1,1 @@
+﻿console.log("NodelLabVezba2 solution");
