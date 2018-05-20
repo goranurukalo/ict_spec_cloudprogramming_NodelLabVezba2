@@ -2,5 +2,3 @@
 ## > Cloud programming
 
 School project in Node js
-
-............
